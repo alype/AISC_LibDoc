@@ -28,5 +28,6 @@ Sous chaque page, vous trouverez le lien d'edit sur le dépot git : n'hésitez p
 
 - [Ma documentation TSSR](https://tssr.vercel.app), le site de mes cours de <abbr title="Technicien Supérieur Système et Réseau">TSSR</abbr>.
 - [Cours DevOps](https://supports.uptime-formation.fr/) de Uptime Formation.
+- [Les cours de Snow](https://snowcode.ovh/index-syntheses/), des cours d'informatique générale, de développement front et back, et d'adminsys.
 - [Documentation LibDoc](https://eleventy-libdoc.netlify.app), la doc du thème de ce site.
 - [Une page de pense-bête](/codes/), pour que je n'oublie pas comment écrire sur ce site.
