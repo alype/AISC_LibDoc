@@ -14,7 +14,7 @@
     "icomoonIconSize": 32,
     "pluginsParameters": {
         "eleventyImageTransform": {
-            "formats": ["svg", "avif", "webp"],
+            "formats": ["webp"],
             "useCache": true,
             "svgShortCircuit": true,
             "htmlOptions": {
