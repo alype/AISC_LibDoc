@@ -1,0 +1,27 @@
+/* Smooth scroll when navigating between anchors */
+html{
+    scroll-behavior: smooth;
+}
+
+/* Styling of pre (for the code tag) */
+main > pre {
+    padding: var(--ita-spacings-5);
+    max-width: calc(var(--libdoc-container-width) + 2 * var(--ita-spacings-5));
+}
+
+main > pre > code::before {
+    padding-bottom: var(--ita-spacings-4);
+    margin-bottom: var(--ita-spacings-4);
+}
+
+@media (max-width: 959px){
+    main > pre {
+        padding: var(--ita-spacings-5);
+    }
+    main > * {
+        max-width: calc(var(--libdoc-container-width) + 2 * var(--ita-spacings-5));
+        padding-left: var(--ita-spacings-5);
+        padding-right: var(--ita-spacings-5);
+    }
+}
+
