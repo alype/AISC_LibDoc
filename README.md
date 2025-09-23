@@ -1,6 +1,6 @@
 # Ma documentation AISC
 
-Un site de documentation fait avec [LibDoc](https://eleventy-libdoc.netlify.app/) et [Eleventy](https://www.11ty.dev/).
+Un site de documentation fait avec [Eleventy](https://www.11ty.dev/) et le thème [LibDoc](https://eleventy-libdoc.netlify.app/).
 
 ## Start
 
