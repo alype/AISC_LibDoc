@@ -2,7 +2,7 @@
 title: Hello Grandchild!
 description: I am the page child of hello child
 layout: libdoc_page.liquid
-permalink: hello-page/hello-child/hello-grandchild/index.html
+permalink: "/hello-page/hello-child/{{ title | slugify }}/index.html"
 eleventyNavigation:
     key: Hello Grandchild
     parent: Hello Child
@@ -13,4 +13,4 @@ tags:
 > 
 > ― **Grandchild**
 
-Let’s go back to [hello child](/hello-child.md "Go back to hello child").
+Let’s go back to [hello child](../A1_hello-child.md "Go back to hello child").
