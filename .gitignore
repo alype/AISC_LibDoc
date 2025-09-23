@@ -1,4 +1,5 @@
 node_modules
+.plugin-clean
 .vscode
 _site
 .cache
