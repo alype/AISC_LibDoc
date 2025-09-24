@@ -4,7 +4,6 @@ description: Mettre en ligne mes cours et mes découvertes en admin-sys
 layout: libdoc_page.liquid
 permalink: /index.html
 tags:
-    - Bienvenue
     - AISC
 ---
 
