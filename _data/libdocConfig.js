@@ -18,7 +18,7 @@ export default {
     siteLogoMaxHeight: userConfig.siteLogoMaxHeight ?? 60,
     author: userConfig.author ?? "Alype",
     faviconUrl: userConfig.faviconUrl ?? "/favicon.png",
-    ogImageUrl: userConfig.ogImageUrl ?? "https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png",
+    ogImageUrl: userConfig.ogImageUrl ?? "",
     customLinks: userConfig.customLinks ?? [],
     blogTitle: userConfig.blogTitle ?? "Logs",
     blogDescription: userConfig.blogDescription ?? false,
