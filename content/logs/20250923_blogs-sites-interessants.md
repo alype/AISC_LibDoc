@@ -5,7 +5,6 @@ tags: Listes
 date: 2025-09-23
 #ogImageUrl: /content/logs/1921041015.png
 ---
-
 ## Outils
 
 ![](./erinSolstice.jpg)
