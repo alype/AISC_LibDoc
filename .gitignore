@@ -1,3 +1,5 @@
+content/.obsidian
+content/.trash
 node_modules
 .plugin-clean
 .vscode
