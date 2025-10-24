@@ -39,7 +39,8 @@ export default {
         "liquid",
         "markdown",
         "css",
-        "html"
+        "html",
+        "powershell"
     ],
     roundedImagesCorners: userConfig.roundedImagesCorners ?? true,
     editThisPageRootUrl: userConfig.editThisPageRootUrl ?? false,
