@@ -17,7 +17,7 @@ export default {
     siteLogoUrl: userConfig.siteLogoUrl ?? "",
     siteLogoMaxHeight: userConfig.siteLogoMaxHeight ?? 60,
     author: userConfig.author ?? "Alype",
-    faviconUrl: userConfig.faviconUrl ?? "/favicon.png",
+    faviconUrl: userConfig.faviconUrl ?? "/assets/myfavicon.png",
     ogImageUrl: userConfig.ogImageUrl ?? "",
     customLinks: userConfig.customLinks ?? [],
     blogTitle: userConfig.blogTitle ?? "Logs",
