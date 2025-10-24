@@ -11,7 +11,7 @@ tags:
 
 Vous trouverez sur ce site de documentation l'intégralité de mes notes de cours d'<abbr title="Administration d'Infrastructure Sécurisée & Cloud">AISC</abbr>.
 
-Sur le [blog](/posts/), j'écrirais sur mes découvertes en admin-sys de manière plus générale.
+Sur le [blog](/logs/), j'écrirais sur mes découvertes en admin-sys de manière plus générale.
 
 ## A propos
 
