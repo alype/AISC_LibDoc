@@ -1,3 +1,17 @@
+---
+title: Admin 1-1
+description: Semaine 2 - Powershell + IPv6
+layout: libdoc_page.liquid
+permalink: /{{ title | slugify }}/index.html
+eleventyNavigation:
+  key: Admin 1-1
+  parent: Admin 1
+tags:
+  - Scripting
+  - IPv6
+  - HyperV
+---
+
 ## Powershell
 
 ### Création de VM sur HyperV

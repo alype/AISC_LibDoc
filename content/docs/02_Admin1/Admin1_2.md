@@ -1,3 +1,18 @@
+---
+title: Admin 1-2
+description: Semaine 2 - DNS + Powershell + AD
+layout: libdoc_page.liquid
+permalink: /{{ title | slugify }}/index.html
+eleventyNavigation:
+  key: Admin 1-2
+  parent: Admin 1
+tags:
+  - Scripting
+  - DNS
+  - AD
+  - HyperV
+---
+
 # Active Directory
 
 Slides : [MODULE_ADGPO](Admin1_2/MODULE_ADGPO.pdf)
